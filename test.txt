@@ -1,2 +1,1 @@
-This is my local testfile
-Modified auother name.
+This is my local testfile.
